@@ -1,0 +1,18 @@
+{
+ "task": "routing",
+ "checkpoint": "typed",
+ "n_calibration": 248,
+ "temperature": [
+  0.7029633522033691,
+  1.0,
+  1.0
+ ],
+ "temperature_by_options": {},
+ "temperature_clamped": {},
+ "n_by_bucket": {
+  "choice:3-5": 147,
+  "choice:6-10": 56,
+  "choice:2": 38,
+  "choice:11+": 7
+ }
+}

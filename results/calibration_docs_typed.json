@@ -1,0 +1,15 @@
+{
+ "task": "docs",
+ "checkpoint": "typed",
+ "n_calibration": 300,
+ "temperature": [
+  0.7198078036308289,
+  1.0,
+  1.0
+ ],
+ "temperature_by_options": {},
+ "temperature_clamped": {},
+ "n_by_bucket": {
+  "choice:11+": 300
+ }
+}

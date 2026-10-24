@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Re-downloadable (and the RVL-CDIP-N OCR text belongs to its original publishers) - fetch with src/fetch_data.py
+data/
+
+# Cost analysis kept locally, not part of the published study
+src/economics.py
+src/count_tokens.py
+results/economics.md
+results/economics.json
+results/token_counts.json
+results/charts/linkedin_cost.png
+# Social post draft, not part of the study
+linkedin-post.md
